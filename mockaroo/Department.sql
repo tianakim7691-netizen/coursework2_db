@@ -1,4 +1,4 @@
-INSERT INTO Department (Deptcode, Deptlocation) VALUES ('3C', 'Texas');
+INSERT INTO Department (Deptcode, Deptlocation) VALUES ('10J', 'Texas');
 INSERT INTO Department (Deptcode, Deptlocation) VALUES ('11K', 'North Carolina');
 INSERT INTO Department (Deptcode, Deptlocation) VALUES ('21U', 'Florida');
 INSERT INTO Department (Deptcode, Deptlocation) VALUES ('8H', 'Manitoba');

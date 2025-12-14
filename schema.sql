@@ -1,7 +1,4 @@
 
---<Part 2 – Schema Design & Table Creation>
-
-
 -- 1. DEPARTMENT Table Creation
 
     CREATE TABLE Department (
